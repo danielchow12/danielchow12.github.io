@@ -1,0 +1,24 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+  background-color: #d4aeab;
+}
+
+#header {
+  margin-top: 30px;
+  text-align: center;
+  letter-spacing: 5px;
+  font-size: 40px;
+}
+
+#subheader {
+  margin-top: 5px;
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+}
+
+#thumbnail img{
+  margin: 0 auto;
+  width: 300px;
+  display: block;
+}
