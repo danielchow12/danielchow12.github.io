@@ -3,6 +3,33 @@ body {
   background-color: #d4aeab;
 }
 
+.container {
+  width: 960px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+
+#link {
+  background-color: white;
+  color: black;
+  padding: 15px 6px;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 200px;
+}
+
+a:visited {
+  text-align: center;
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color:blue;
+}
+
 #header {
   margin-top: 30px;
   text-align: center;
@@ -21,4 +48,12 @@ body {
   margin: 0 auto;
   width: 300px;
   display: block;
+}
+
+.description {
+  margin: 0 auto;
+  martin-top: 30px;
+  width: 600px;
+  font-size: 20px;
+  line-height: 30px;
 }
